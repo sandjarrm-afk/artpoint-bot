@@ -1,0 +1,2 @@
+# artpoint-bot
+shaxsiy
