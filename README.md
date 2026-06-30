@@ -1,2 +1,1 @@
-# artpoint-bot
-shaxsiy
+
